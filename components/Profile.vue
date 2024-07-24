@@ -1,0 +1,40 @@
+<template>
+  <section class="profile">
+    <div class="w-48 mx-auto lg:ml-0">
+      <img
+        src="/profile-pics/profile.jpeg"
+        width="350"
+        height="350"
+        alt="profile image"
+        loading="lazy"
+        class="rounded-lg"
+      />
+    </div>
+    <article class="mt-3">
+      <h1>Jai Sharma</h1>
+      <p class="text-center lg:text-left">Senior Software Engineer</p>
+
+      <div class="profile-social-icons">
+        <a
+          href="https://www.instagram.com/__jayysharma___/"
+          aria-label="Instagram"
+          target="blank"
+        >
+          <IconsInstaIcon />
+        </a>
+
+        <a
+          href="https://www.linkedin.com/in/jai-s-5a576b213/"
+          aria-label="Linkden"
+          target="blank"
+        >
+          <IconsLinkedInIcon />
+        </a>
+
+        <a href="https://github.com/sharma-jai" aria-label="Github" target="blank">
+          <IconsGithubIcon />
+        </a>
+      </div>
+    </article>
+  </section>
+</template>
