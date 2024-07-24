@@ -46,11 +46,11 @@ export default defineNuxtConfig({
         // sharing thumbmail img
         {
           property: "og:image",
-          content: "https://www.jaisharma.me/favicon-bw.png", ///favicon-wb.png
+          content: "https://www.jaisharma.me/favicon-bw.svg", ///favicon-wb.png
         },
         // google site verification
       ],
-      link: [{ rel: "icon", href: "/favicon-bw.png" }],
+      link: [{ rel: "icon", href: "/favicon-bw.svg" }],
     },
   },
   modules: ["@nuxtjs/tailwindcss"],
