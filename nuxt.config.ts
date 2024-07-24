@@ -32,7 +32,7 @@ export default defineNuxtConfig({
         },
         {
           property: "og:site",
-          content: "https://www.jaisharma.me/",
+          content: "https://jaisharma.vercel.app",
         },
         {
           property: "og:title",
@@ -46,7 +46,7 @@ export default defineNuxtConfig({
         // sharing thumbmail img
         {
           property: "og:image",
-          content: "https://www.jaisharma.me/favicon-bw.svg", ///favicon-wb.png
+          content: "https://jaisharma.vercel.appfavicon-bw.svg", ///favicon-wb.png
         },
         // google site verification
       ],

@@ -3,7 +3,7 @@
   "name": "jai-portfolio",
   "author": {
     "name": "Jai Sharma",
-    "url": "https://www.jaisharma.me/"
+    "url": "https://jaisharma.vercel.app"
   },
   "scripts": {
     "dev": "nuxi dev",

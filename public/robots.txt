@@ -3,4 +3,4 @@ Allow: /
 Disallow: /mailto:jai.sharma9782@gmail.com
 Disallow: /resume/my-resume.pdf
 
-Sitemap: http://www.eazypau.com/sitemap.xml
+Sitemap: http://jaisharma.vercel.app/sitemap.xml
