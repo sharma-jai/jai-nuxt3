@@ -17,16 +17,6 @@
 			<changefreq>yearly</changefreq>
 		</url>
 
-		<!-- <url>
-			<loc>https://jaisharma.vercel.app/projects</loc>
-			<changefreq>monthly</changefreq>
-		</url>
-
-		<url>
-			<loc>https://jaisharma.vercel.app/works</loc>
-			<changefreq>yearly</changefreq>
-		</url> -->
-
 		<url>
 			<loc>https://jaisharma.vercel.app/contact</loc>
 			<changefreq>never</changefreq>
